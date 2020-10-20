@@ -2,86 +2,110 @@
     {
       "id": 1,
       "name": "Geralt",
-      "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.letseatcake.com%2Fwitcher-memes%2F&psig=AOvVaw3k3OnhHuZZ0ChD9AjwVcbp&ust=1603250612809000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDlpZOcwuwCFQAAAAAdAAAAABAK",
       "occupation": "Fry Cook",
-      "location": "A Pineapple Under the Sea"
+      "phone": "A Pineapple Unde,r the Sea",
+      "email" :"" ,
+      "DOB" :"" 
     },
     {
       "id": 2,
       "name": "Triss",
-      "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+      "image": "https://i.pinimg.com/originals/23/80/48/2380483a5506c7fd171ff186ba18764d.png",
       "occupation": "Restaurant Owner",
-      "location": "A Giant Anchor"
+      "phone": "A Giant Anchor",
+      "email" :"" ,
+      "DOB" :""
     },
     {
       "id": 3,
       "name": "Liza",
-      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+      "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFRkPMTEqdn3g/profile-displayphoto-shrink_800_800/0?e=1608768000&v=beta&t=LSkFZXe8umI9ii9ZVdwExVo-AfLfbjcOba-gr-quTJc",
       "occupation": "Cashier",
-      "location": "An Easter Island Head"
+      "phone": "An Easter Island, Head",
+      "email" :"" ,
+      "DOB" :""
     },
     {
       "id": 4,
       "name": "Tywin Lannister",
-      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+      "image": "https://pbs.twimg.com/profile_images/473564165802819586/ETa8VXqc.jpeg",
       "occupation": "Boy Genius",
-      "location": "A Secret Laboratory"
+      "phone": "A Secret Laborat,ory",
+      "email" :"" ,
+      "DOB" :""
     },
     {
       "id": 5,
       "name": "Eskel",
-      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+      "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/eskel.jpg",
       "occupation": "A Cowardly Dog",
-      "location": "Nowhere, Kansas"
+      "phone": "Nowhere, Kansas",
+      "email" :"" ,
+      "DOB" :""
     },
     {
       "id": 6,
       "name": "Coke",
-      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+      "image": "https://www.coca-colacompany.com/content/dam/journey/au/en/brand-detail/coca-cola/Large%20product%20shot%20-%20Coca-Cola%20Classic.png",
       "occupation": "Student",
-      "location": "Bluffington"
+      "phone": "Bluffington",
+      "email" :"" ,
+      "DOB" :""
     },
     {
       "id": 7,
       "name": "Itachi",
-      "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+      "image": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2020/06/itachi.jpg",
       "occupation": "Looney Toon",
-      "location": "A Rabbit Burrow"
+      "phone": "A Rabbit Burrow",
+      "email" :"" ,
+      "DOB" :""
     },
     {
       "id": 8,
       "name": "Pikachu",
-      "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
+      "image": "https://vignette.wikia.nocookie.net/wii/images/8/89/Pikachu.jpg/revision/latest/scale-to-width-down/340?cb=20140209205851",
       "occupation": "Ladies Man",
-      "location": "Aron City"
-    },
+      "phone": "Aron City",
+      "email" :"" ,
+      "DOB" :""
+    },,
     {
       "id": 9,
       "name": "Tommy Shelby",
-      "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
+      "image": "https://c.tribune.com.pk/2019/04/thomas-1-1554889832.png",
       "occupation": "Adventurer",
-      "location": "California"
+      "phone": "California",
+      "email" :"" ,
+      "DOB" :""
     },
     {
       "id": 10,
       "name": "Pizza",
-      "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
+      "image": "https://www.biggerbolderbaking.com/wp-content/uploads/2019/07/15-Minute-Pizza-WS-Thumbnail.png",
       "occupation": "Cashier",
-      "location": "O-Town, California"
+      "phone": "O-Town, Californ,ia",
+      "email" :"" ,
+      "DOB" :""
     },
     {
       "id": 11,
       "name": "Rengar",
-      "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/womanyellingcat-1573233850.jpg",
       "occupation": "Superhero",
-      "location": "Earth"
+      "phone": "Earth",
+      "email" :"" ,
+      "DOB" :""
     },
     {
       "id": 12,
       "name": "Toby",
-      "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
+      "image": "https://cdn.mos.cms.futurecdn.net/42E9as7NaTaAi4A6JcuFwG-1200-80.jpg",
       "occupation": "Ahhhh! A Real Monster!",
-      "location": "Under a City Dump"
+      "phone": "Under a City Dum,p",
+      "email" :"" ,
+      "DOB" :""
     }
   ]
   
