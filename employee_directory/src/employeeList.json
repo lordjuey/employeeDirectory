@@ -3,109 +3,109 @@
       "id": 1,
       "name": "Geralt",
       "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.letseatcake.com%2Fwitcher-memes%2F&psig=AOvVaw3k3OnhHuZZ0ChD9AjwVcbp&ust=1603250612809000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDlpZOcwuwCFQAAAAAdAAAAABAK",
-      "occupation": "Fry Cook",
-      "phone": "A Pineapple Unde,r the Sea",
-      "email" :"" ,
-      "DOB" :"" 
+      "occupation": "HR Manager",
+      "phone": "04332233",
+      "email" :"geralt@rivia.com" ,
+      "DOB" :"11/01/1922" 
     },
     {
       "id": 2,
       "name": "Triss",
       "image": "https://i.pinimg.com/originals/23/80/48/2380483a5506c7fd171ff186ba18764d.png",
-      "occupation": "Restaurant Owner",
-      "phone": "A Giant Anchor",
-      "email" :"" ,
-      "DOB" :""
+      "occupation": "engineer",
+      "phone": "0422334122",
+      "email" :"triss@lordjuey.com.au" ,
+      "DOB" :"31/03/1988"
     },
     {
       "id": 3,
       "name": "Liza",
       "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFRkPMTEqdn3g/profile-displayphoto-shrink_800_800/0?e=1608768000&v=beta&t=LSkFZXe8umI9ii9ZVdwExVo-AfLfbjcOba-gr-quTJc",
-      "occupation": "Cashier",
-      "phone": "An Easter Island, Head",
-      "email" :"" ,
-      "DOB" :""
+      "occupation": "CEO",
+      "phone": "04040808112",
+      "email" :"liza@lordjuey.com.au" ,
+      "DOB" :"4/02/1998"
     },
     {
       "id": 4,
       "name": "Tywin Lannister",
       "image": "https://pbs.twimg.com/profile_images/473564165802819586/ETa8VXqc.jpeg",
       "occupation": "Boy Genius",
-      "phone": "A Secret Laborat,ory",
-      "email" :"" ,
-      "DOB" :""
+      "phone": "0262232253",
+      "email" :"tywin@lannisport.com.au" ,
+      "DOB" :"01/01/1800"
     },
     {
       "id": 5,
       "name": "Eskel",
       "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/eskel.jpg",
-      "occupation": "A Cowardly Dog",
-      "phone": "Nowhere, Kansas",
-      "email" :"" ,
-      "DOB" :""
+      "occupation": "scar face",
+      "phone": "0263521847",
+      "email" :"eskel<3yennifer@gmail.com" ,
+      "DOB" :"02/04/1882"
     },
     {
       "id": 6,
       "name": "Coke",
       "image": "https://www.coca-colacompany.com/content/dam/journey/au/en/brand-detail/coca-cola/Large%20product%20shot%20-%20Coca-Cola%20Classic.png",
-      "occupation": "Student",
-      "phone": "Bluffington",
-      "email" :"" ,
-      "DOB" :""
+      "occupation": "Vice president of sales",
+      "phone": "N/A",
+      "email" :"coke@lordjuey.com.au" ,
+      "DOB" :"N/A"
     },
     {
       "id": 7,
       "name": "Itachi",
       "image": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2020/06/itachi.jpg",
-      "occupation": "Looney Toon",
-      "phone": "A Rabbit Burrow",
-      "email" :"" ,
-      "DOB" :""
+      "occupation": "senior assassin",
+      "phone": "0404111111",
+      "email" :"itachi@secretservice.com.au" ,
+      "DOB" :"02/02/1984"
     },
     {
       "id": 8,
       "name": "Pikachu",
       "image": "https://vignette.wikia.nocookie.net/wii/images/8/89/Pikachu.jpg/revision/latest/scale-to-width-down/340?cb=20140209205851",
       "occupation": "Ladies Man",
-      "phone": "Aron City",
-      "email" :"" ,
-      "DOB" :""
+      "phone": "0404112233",
+      "email" :"pika@lordjuey.com" ,
+      "DOB" :"03/04/1982"
     },,
     {
       "id": 9,
       "name": "Tommy Shelby",
       "image": "https://c.tribune.com.pk/2019/04/thomas-1-1554889832.png",
-      "occupation": "Adventurer",
-      "phone": "California",
-      "email" :"" ,
-      "DOB" :""
+      "occupation": "marketing",
+      "phone": "0262232287",
+      "email" :"tommy@lordjuey.com.au" ,
+      "DOB" :"01/01/1880"
     },
     {
       "id": 10,
       "name": "Pizza",
       "image": "https://www.biggerbolderbaking.com/wp-content/uploads/2019/07/15-Minute-Pizza-WS-Thumbnail.png",
-      "occupation": "Cashier",
-      "phone": "O-Town, Californ,ia",
-      "email" :"" ,
-      "DOB" :""
+      "occupation": "CTO",
+      "phone": "0248879938",
+      "email" :"pizza@dominos.com.au" ,
+      "DOB" :"01/01/1203"
     },
     {
       "id": 11,
       "name": "Rengar",
       "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/womanyellingcat-1573233850.jpg",
-      "occupation": "Superhero",
-      "phone": "Earth",
-      "email" :"" ,
-      "DOB" :""
+      "occupation": "cheif negotiator",
+      "phone": "0242232299",
+      "email" :"topcat@lordjuey.com.au" ,
+      "DOB" :"01/02/2016"
     },
     {
       "id": 12,
       "name": "Toby",
       "image": "https://cdn.mos.cms.futurecdn.net/42E9as7NaTaAi4A6JcuFwG-1200-80.jpg",
-      "occupation": "Ahhhh! A Real Monster!",
-      "phone": "Under a City Dum,p",
-      "email" :"" ,
-      "DOB" :""
+      "occupation": "stock controller",
+      "phone": "0299489929",
+      "email" :"toby@lordjuey.com.au" ,
+      "DOB" :"30/04/1994"
     }
   ]
   
