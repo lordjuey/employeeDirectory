@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Header from './components/Hdeader';
-import EmployeeTable from './components/EmbloyeeTable';
+import Header from './components/Header';
+// import EmployeeTable from './components/EmbloyeeTable';
 import Employees from "./employeeList.json";
 
 const App = () => {
@@ -25,12 +24,13 @@ const App = () => {
   return (
     <div>
       <Header/>
-      <TableTitle onSearch={searchHandler} search={searchVal}/>
-      <EmployeeTable employeeList = {searchResult}/>
+      {/* <TableTitle onSearch={searchHandler} search={searchVal}/>
+      <EmployeeTable employeeList = {searchResult}/> */}
     </div>
   )
 
 }
+
 
 
 
