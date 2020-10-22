@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Header from './components/Header';
+import SearchBar from './components/SearchBar';
 // import EmployeeTable from './components/EmbloyeeTable';
 import Employees from "./employeeList.json";
 
@@ -24,6 +25,7 @@ const App = () => {
   return (
     <div>
       <Header/>
+      <SearchBar/>
       {/* <TableTitle onSearch={searchHandler} search={searchVal}/>
       <EmployeeTable employeeList = {searchResult}/> */}
     </div>
