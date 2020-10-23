@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Geralt",
-      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.letseatcake.com%2Fwitcher-memes%2F&psig=AOvVaw3k3OnhHuZZ0ChD9AjwVcbp&ust=1603250612809000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDlpZOcwuwCFQAAAAAdAAAAABAK",
+      "image": "https://avatarfiles.alphacoders.com/125/thumb-125051.jpg",
       "occupation": "HR Manager",
       "phone": "04332233",
       "email" :"geralt@rivia.com" ,
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "Triss",
-      "image": "https://i.pinimg.com/originals/23/80/48/2380483a5506c7fd171ff186ba18764d.png",
+      "image": "https://i.imgur.com/d9nZAgY.jpg",
       "occupation": "engineer",
       "phone": "0422334122",
       "email" :"triss@lordjuey.com.au" ,
@@ -20,7 +20,7 @@
     {
       "id": 3,
       "name": "Liza",
-      "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFRkPMTEqdn3g/profile-displayphoto-shrink_800_800/0?e=1608768000&v=beta&t=LSkFZXe8umI9ii9ZVdwExVo-AfLfbjcOba-gr-quTJc",
+      "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFRkPMTEqdn3g/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=qu_jS2uWHS-O09YyYcvShYvlq08u2j0xX8D72pTV7kE",
       "occupation": "CEO",
       "phone": "04040808112",
       "email" :"liza@lordjuey.com.au" ,
@@ -29,7 +29,7 @@
     {
       "id": 4,
       "name": "Tywin Lannister",
-      "image": "https://pbs.twimg.com/profile_images/473564165802819586/ETa8VXqc.jpeg",
+      "image": "https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/18.jpg",
       "occupation": "Boy Genius",
       "phone": "0262232253",
       "email" :"tywin@lannisport.com.au" ,
@@ -38,7 +38,7 @@
     {
       "id": 5,
       "name": "Eskel",
-      "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/eskel.jpg",
+      "image": "https://static.wikia.nocookie.net/witcher/images/9/9b/Tw3_journal_eskel.png/revision/latest/smart/width/200/height/200?cb=20160708060530",
       "occupation": "scar face",
       "phone": "0263521847",
       "email" :"eskel<3yennifer@gmail.com" ,
@@ -47,7 +47,7 @@
     {
       "id": 6,
       "name": "Coke",
-      "image": "https://www.coca-colacompany.com/content/dam/journey/au/en/brand-detail/coca-cola/Large%20product%20shot%20-%20Coca-Cola%20Classic.png",
+      "image": "https://secureservercdn.net/166.62.107.20/5zf.1c2.myftpupload.com/wp-content/uploads/2020/05/coke-e1588747628752.jpg?time=1591812830",
       "occupation": "Vice president of sales",
       "phone": "N/A",
       "email" :"coke@lordjuey.com.au" ,
@@ -56,7 +56,7 @@
     {
       "id": 7,
       "name": "Itachi",
-      "image": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2020/06/itachi.jpg",
+      "image": "https://i.pinimg.com/originals/43/1a/60/431a608992a9c7dd21576dcadf3b9c1e.png",
       "occupation": "senior assassin",
       "phone": "0404111111",
       "email" :"itachi@secretservice.com.au" ,
@@ -65,7 +65,7 @@
     {
       "id": 8,
       "name": "Pikachu",
-      "image": "https://vignette.wikia.nocookie.net/wii/images/8/89/Pikachu.jpg/revision/latest/scale-to-width-down/340?cb=20140209205851",
+      "image": "data:image/png;base64,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",
       "occupation": "Ladies Man",
       "phone": "0404112233",
       "email" :"pika@lordjuey.com" ,
@@ -74,7 +74,7 @@
     {
       "id": 9,
       "name": "Tommy Shelby",
-      "image": "https://c.tribune.com.pk/2019/04/thomas-1-1554889832.png",
+      "image": "https://nmcodex.github.io/profile/images/tommy_shelby.jpeg",
       "occupation": "marketing",
       "phone": "0262232287",
       "email" :"tommy@lordjuey.com.au" ,
@@ -83,7 +83,7 @@
     {
       "id": 10,
       "name": "Pizza",
-      "image": "https://www.biggerbolderbaking.com/wp-content/uploads/2019/07/15-Minute-Pizza-WS-Thumbnail.png",
+      "image": "https://i2.wp.com/thatspicychick.com/wp-content/uploads/2020/03/Greek-Yogurt-Pizza-Dough-baked-pepperoni-pizza-200x200.jpg",
       "occupation": "CTO",
       "phone": "0248879938",
       "email" :"pizza@dominos.com.au" ,
@@ -92,7 +92,7 @@
     {
       "id": 11,
       "name": "Rengar",
-      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/womanyellingcat-1573233850.jpg",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/791992712493073080/9BF5EE311E5ED5B66350C0554262147CF3327D06/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
       "occupation": "cheif negotiator",
       "phone": "0242232299",
       "email" :"topcat@lordjuey.com.au" ,
@@ -101,7 +101,7 @@
     {
       "id": 12,
       "name": "Toby",
-      "image": "https://cdn.mos.cms.futurecdn.net/42E9as7NaTaAi4A6JcuFwG-1200-80.jpg",
+      "image": "https://whatsfresh.teamrocket.co.nz/images/produce/bananas-200x200.jpg",
       "occupation": "stock controller",
       "phone": "0299489929",
       "email" :"toby@lordjuey.com.au" ,
