@@ -1,5 +1,5 @@
 import React from "react";
-import { Table, Button } from 'react-bootstrap';
+import { Table } from 'react-bootstrap';
 
 const useSortableData = (employees, config = null) => {
   const [sortConfig, setSortConfig] = React.useState(config);
@@ -54,7 +54,7 @@ const EmployeeGrid = (props) => {
       <tbody>
         {employees.map(employee => {
           return (
-            <tr key={employee.id}>
+            <tr>
               <td>{employee.id}</td>
               <td><img src={employee.image} alt="employee_picture"></img></td>
               <td>{employee.occupation}</td>
