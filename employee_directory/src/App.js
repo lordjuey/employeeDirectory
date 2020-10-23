@@ -26,7 +26,7 @@ const App = () => {
     <div>
       <Header/>
       <SearchBar onSearch={searchHandler} search={searchVal}/>
-      {/* <EmployeeGrid employee = {searchResult}/> */}
+      <EmployeeGrid employees = {searchResult}/>
     </div>
   )
 
