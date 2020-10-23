@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Header from './components/Header';
 import SearchBar from './components/SearchBar';
-// import EmployeeTable from './components/EmbloyeeTable';
+import EmployeeGrid from './components/EmployeeGrid';
 import Employees from "./employeeList.json";
 
 const App = () => {
@@ -25,14 +25,12 @@ const App = () => {
   return (
     <div>
       <Header/>
-      <SearchBar/>
-      {/* <TableTitle onSearch={searchHandler} search={searchVal}/>
-      <EmployeeTable employeeList = {searchResult}/> */}
+      <SearchBar onSearch={searchHandler} search={searchVal}/>
+      {/* <EmployeeGrid employee = {searchResult}/> */}
     </div>
   )
 
 }
-
 
 
 

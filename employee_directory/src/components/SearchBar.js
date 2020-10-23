@@ -2,7 +2,7 @@ import React from "react";
 import InputGroup from "react-bootstrap/InputGroup";
 import FormControl from "react-bootstrap/FormControl";
 
-function SearchBar() {
+function SearchBar(props) {
   return (
     <div
       style={{
@@ -17,6 +17,9 @@ function SearchBar() {
         <FormControl
           aria-label="Small"
           aria-describedby="inputGroup-sizing-sm"
+          value = {props.search}
+          onChange={props.onSearch}
+          id='term'
         />
       </InputGroup>
     </div>
