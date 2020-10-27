@@ -11,6 +11,8 @@
    [Tests] (#tests)
    [Repository Information] (#repository information)
    [Contributors] (#contributors)
+   
+  ## Screenshot
 
 
   ## programmer
@@ -27,15 +29,6 @@
   ~~~
   npm i 
   ~~~
-  ## Tests
-  ~~~
-  no
-  ~~~
-  ## Repository Information 
-  not a lot
-
-  ## Contributors 
-  not much
 
   ## Questions
   
