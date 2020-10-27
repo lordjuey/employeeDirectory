@@ -11,6 +11,10 @@
    [Tests] (#tests)
    [Repository Information] (#repository information)
    [Contributors] (#contributors)
+   
+  ## Screenshot
+  ![image](https://user-images.githubusercontent.com/65110668/97286404-90005000-1897-11eb-94a2-1d1c09d9719d.png)
+
 
 
   ## programmer
@@ -27,15 +31,6 @@
   ~~~
   npm i 
   ~~~
-  ## Tests
-  ~~~
-  no
-  ~~~
-  ## Repository Information 
-  not a lot
-
-  ## Contributors 
-  not much
 
   ## Questions
   
